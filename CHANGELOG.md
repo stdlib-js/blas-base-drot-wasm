@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-03)
+## Unreleased (2024-10-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`420e21c`](https://github.com/stdlib-js/stdlib/commit/420e21cbeb53062caad324e14b8ea8ca53d51755) - **docs:** fix examples and notes _(by Athan Reines)_
 -   [`5d79f98`](https://github.com/stdlib-js/stdlib/commit/5d79f98fcf24be0adf5ab357964d8afaa6707b86) - **feat:** add `blas/base/drot-wasm` [(#2979)](https://github.com/stdlib-js/stdlib/pull/2979) _(by Aman Bhansali, Athan Reines)_
 
 </details>
