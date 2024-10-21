@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@esm/index.mjs';
+import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@v0.0.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Module } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@esm/index.mjs';
+import { Module } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@v0.0.0-esm/index.mjs';
 ```
 
 #### drot.main( N, x, strideX, y, strideY, c, s )
@@ -329,7 +329,7 @@ The function has the following additional parameters:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@esm/index.mjs';
+import drot from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drot-wasm@v0.0.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
